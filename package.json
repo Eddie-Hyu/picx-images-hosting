@@ -1,0 +1,22 @@
+{
+  "name": "picx-images-hosting",
+  "version": "1.0.0",
+  "description": "图床",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddie-Hyu/picx-images-hosting.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "ldd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eddie-Hyu/picx-images-hosting/issues"
+  },
+  "homepage": "https://github.com/Eddie-Hyu/picx-images-hosting#readme"
+}
